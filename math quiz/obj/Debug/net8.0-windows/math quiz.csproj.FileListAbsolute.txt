@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\MathQuiz.Form1.resources
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\math quiz.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\math quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\math quiz.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\math quiz.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\math quiz.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\math quiz\math quiz\bin\Debug\net8.0-windows\math quiz.exe
+C:\Users\Lenovo\Documents\math quiz\math quiz\bin\Debug\net8.0-windows\math quiz.deps.json
+C:\Users\Lenovo\Documents\math quiz\math quiz\bin\Debug\net8.0-windows\math quiz.runtimeconfig.json
+C:\Users\Lenovo\Documents\math quiz\math quiz\bin\Debug\net8.0-windows\math quiz.dll
+C:\Users\Lenovo\Documents\math quiz\math quiz\bin\Debug\net8.0-windows\math quiz.pdb
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\math quiz.dll
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\refint\math quiz.dll
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\math quiz.pdb
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\math quiz.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\math quiz\math quiz\obj\Debug\net8.0-windows\ref\math quiz.dll
